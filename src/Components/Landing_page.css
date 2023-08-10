@@ -1,0 +1,31 @@
+@font-face {
+    font-family: MarlinGeoSQ;
+    src: url(MarlinGeoSQ-Regular.woff);
+}
+
+.nav{
+    font-family: MarlinGeoSQ,sans-serif;
+    color: #000;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.head{
+    color: #000;
+font-family: MarlinGeoSQ,sans-serif;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+
+}
+
+.sub{
+    color: #535353;
+font-family: MarlinGeoSQ,sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}

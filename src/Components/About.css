@@ -1,0 +1,64 @@
+.bg{
+    background: #1D1D1D;
+    width: full;
+height: 550px;
+flex-shrink: 0;
+}
+
+.bg1{
+    background: #1D1D1D;
+}
+
+.con{
+    color: #FFF;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.who{
+    color: #FF5C00;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.wh{
+    color: #FFF;
+font-family: MarlinGeoSQ;
+font-size: 64px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.cont{
+    color: #FFF;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.val{
+    color: #FFF;
+font-family: MarlinGeoSQ;
+font-size: 40px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.nam{
+    color: #FFF;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}

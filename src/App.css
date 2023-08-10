@@ -1,0 +1,8 @@
+@font-face {
+    font-family: MarlinGeoSQ;
+    src: url(MarlinGeoSQ-Regular.woff);
+}
+
+.head{
+    font-family: MarlinGeoSQ,sans-serif;
+}

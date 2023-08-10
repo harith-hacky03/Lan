@@ -1,0 +1,36 @@
+.or{
+    color: #FF5C00;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.big{
+    color: #000;
+text-align: center;
+font-family: MarlinGeoSQ;
+font-size: 64px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.title{
+    color: #535353;
+text-align: center;
+font-family: MarlinGeoSQ;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.box{
+    border: 2px solid #FF5C00;
+    width: 200px;
+height: 50px;
+flex-shrink: 0;
+}
